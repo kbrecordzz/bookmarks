@@ -2,7 +2,7 @@
 
 Super simple bookmarking web "app" (= web site) for you who have your own web server with PHP on it.
 
-Save URL:s and put them into categories. Thumbnails will be automatically downloaded (works best for YouTube videos, as long as YouTube doesn't change the URL system for their thumbnails, and for links to actual .JPG and .PNG images).
+Save URL:s and put them into categories. Thumbnails will be automatically downloaded (works best for YouTube videos, as long as YouTube doesn't change the URL system for their thumbnails, and for .JPG and .PNG image links).
 
 HOW TO USE IT:
 
