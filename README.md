@@ -8,6 +8,6 @@ HOW TO USE IT:
 2. Create the directory "data" in the same directory as index.php, and make it able to write to (in Linux: chmod 777 data/ - very unsecure because it gives EVERYONE permission to do ANYTHING, but it works).
 3. Set your own password in index.php ($password = "password").
 
-LICENSE: kbrecordzz public domain license = use it however you want without needing to credit me (this is basically CC0 but much shorter legal text).
+LICENSE: kbrecordzz public domain license = use it however you want without needing to credit me (basically CC0 but much shorter legal text).
 
 /kbrecordzz
