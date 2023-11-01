@@ -1,5 +1,7 @@
 # bookmarks
 
+# IMPORTANT - This has security flaws. See it as a code example to learn from and not an app to set up and use with the belief that it will work securely.
+
 Super simple bookmarking web "app" (= web site) for you who have your own web server with PHP on it.
 
 HOW TO USE IT:
